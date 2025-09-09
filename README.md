@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [not yet available](not yet available)
 
-- 💬 Ask me about **Anaconda, Python,**
+- 💬 Ask me about **Machine Learning, Python, Deep Learning**
 
 - 📫 How to reach me **johnmishaelparcal@gmail.com**
 
