@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmishael&label=Profile%20views&color=0e75b6&style=flat" alt="juanmishael" /> </p>
 
-- 🌱 I’m currently learning **NextJs, NestJs, Supabase, Postgres**
+- 🌱 I’m currently a **Junior Full Stack Developer under Research and Developement**
 
 - 👨‍💻 All of my projects are available at [not yet available](not yet available)
 
 - 📝 I regularly write articles on [not yet available](not yet available)
 
-- 💬 Ask me about **Machine Learning, Python, Deep Learning**
+- 💬 Let's talk about **Software Technology, System Architecture, AI**
 
 - 📫 How to reach me **johnmishaelparcal@gmail.com**
 
-- ⚡ Fun fact **I do love Photography📷**
+- ⚡ Fun fact **I do love Photography📷** visit me on instagram or unsplash
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
